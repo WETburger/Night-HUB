@@ -1,0 +1,2 @@
+_G.Username = BOTPLAYER012322
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
